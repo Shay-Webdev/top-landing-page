@@ -9,7 +9,6 @@ header{
     padding-left: 150px;
     padding-right: 150px;
     margin: 0;
-    border: 0;
     gap: 50px;
     justify-content: space-between;
 
@@ -161,4 +160,11 @@ img{
 
 .call > * {
     margin: 0;
+}
+
+footer{
+    background-color: #1f2937;
+    padding : 30px;
+    margin: 0;
+    text-align: center;
 }
