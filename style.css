@@ -6,7 +6,7 @@ header{
     display: flex;
     flex-direction: column;
     background-color: #1f2937;
-    padding-left: 100px;
+    padding-left: 150px;
     padding-right: 150px;
     margin: 0;
     border: 0;
@@ -131,4 +131,34 @@ img{
 .quotes-name{
     text-align: right;
     font-weight: bold;
+}
+
+.call-to-action{
+    background-color: #3882f6;
+    margin: 50px 150px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.call-to-action button{
+    background-color: #3882f6;
+    border-radius: 4px;
+    border-color: #f9faf8;
+    color: #f9faf8;
+}
+
+.call{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+
+.call > * {
+    margin: 0;
 }
