@@ -112,7 +112,6 @@ img{
     gap: 100px;
     padding-left: 200px;
     padding-right: 200px;
-   
 }
 
 .content-images  img {
@@ -120,4 +119,16 @@ img{
     border: 2px solid #3882f6 ;
     border-radius: 4px;
 
+}
+
+.quotes{
+    font: 36px light italic #1f2937;
+    background-color: #e5e7eb;
+    text-align: center;
+    padding: 50px 300px ;
+}
+
+.quotes-name{
+    text-align: right;
+    font-weight: bold;
 }
